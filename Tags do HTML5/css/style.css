@@ -1,0 +1,50 @@
+body {
+    background-color: beige;
+}
+
+#principal {
+    background-color: cadetblue;
+}
+
+header {
+    background-color: burlywood;
+}
+
+h1 {
+    color:black;
+    font-size: 20px;
+}
+
+nav {
+    background-color: darkgreen;/*Cor de fundo*/
+}
+
+/*Aqui começa o h1 que ta dentro do nav*/
+.pequenininho {
+    font-size: 16px; /*tamanho da letra*/
+}
+
+.texto-branco {
+    color: white;
+}
+
+section {
+    background-color: coral;
+}
+
+article {
+    background-color:darkmagenta;
+}
+
+aside {
+    background-color: goldenrod;
+}
+
+footer {
+    background-color: lightcoral;
+}
+
+footer h1 {
+    color: brown; /*estou falando de herança, sobre o h1 que esta dentro do footer*/
+}
+
